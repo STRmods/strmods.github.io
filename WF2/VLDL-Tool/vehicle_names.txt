@@ -1,5 +1,5 @@
 { "car01", "RoadSlayer" },
-{ "car03", "Rockit" },
+{ "car03", "Rocket" },
 { "car04", "Bravion" },
 { "car05", "Crusader" },
 { "car06", "Gizmo" },
