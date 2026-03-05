@@ -1,0 +1,15 @@
+[
+  { "id": "car04", "name": "Bravion", "preview": "WF2/vehicles/car04.webp" },
+  { "id": "car09", "name": "Buggy", "preview": "WF2/vehicles/car09.webp" },
+  { "id": "car08", "name": "Cardinal", "preview": "WF2/vehicles/car08.webp" },
+  { "id": "car05", "name": "Crusader", "preview": "WF2/vehicles/car05.webp" },
+  { "id": "car06", "name": "Gizmo", "preview": "WF2/vehicles/car06.webp" },
+  { "id": "car13", "name": "Grandstar", "preview": "WF2/vehicles/car13.webp" },
+  { "id": "motorhome", "name": "Motorhome", "preview": "WF2/vehicles/motorhome.webp" },
+  { "id": "car12", "name": "Phaser", "preview": "WF2/vehicles/car12.webp" },
+  { "id": "car10", "name": "Popper", "preview": "WF2/vehicles/car10.webp" },
+  { "id": "car07", "name": "Rammer", "preview": "WF2/vehicles/car07.webp" },
+  { "id": "car01", "name": "RoadSlayer", "preview": "WF2/vehicles/car01.webp" },
+  { "id": "car03", "name": "Rocket", "preview": "WF2/vehicles/car03.webp" },
+  { "id": "car11", "name": "Switchback", "preview": "WF2/vehicles/car11.webp" }
+]

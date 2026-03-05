@@ -1,0 +1,99 @@
+[
+  {
+    "id": "track04",
+    "name": "Cannonhill",
+    "preview": "WF2/tracks/track04.webp",
+    "variations": [
+      { "id": "track04_1", "name": "Main Circuit", "preview": "WF2/tracks/track04_1.webp" },
+      { "id": "track04_1_rev", "name": "Main Circuit Reverse", "preview": "WF2/tracks/track04_1_rev.webp" }
+    ]
+  },
+  {
+    "id": "track10",
+    "name": "Crash Canyon",
+    "preview": "WF2/tracks/track10.webp",
+    "variations": [
+      { "id": "track10_2", "name": "Main Route", "preview": "WF2/tracks/track10_2.webp" }
+    ]
+  },
+  {
+    "id": "track05",
+    "name": "European Rallycross 1",
+    "preview": "WF2/tracks/track05.webp",
+    "variations": [
+      { "id": "track05_1", "name": "Main Circuit", "preview": "WF2/tracks/track05_1.webp" },
+      { "id": "track05_1_rev", "name": "Main Circuit Reverse", "preview": "WF2/tracks/track05_1_rev.webp" }
+    ]
+  },
+  {
+    "id": "track01",
+    "name": "Finncross",
+    "preview": "WF2/tracks/track01.webp",
+    "variations": [
+      { "id": "track01_1", "name": "Main Circuit", "preview": "WF2/tracks/track01_1.webp" },
+      { "id": "track01_1_rev", "name": "Main Circuit Reverse", "preview": "WF2/tracks/track01_1_rev.webp" }
+    ]
+  },
+  {
+    "id": "track11",
+    "name": "Moorfeld",
+    "preview": "WF2/tracks/track11.webp",
+    "variations": [
+      { "id": "track11_1", "name": "Race Route", "preview": "WF2/tracks/track11_1.webp" },
+      { "id": "track11_2", "name": "Crash Route", "preview": "WF2/tracks/track11_2.webp" }
+    ]
+  },
+  {
+    "id": "track02",
+    "name": "Savolax Sandpit",
+    "preview": "WF2/tracks/track02.webp",
+    "variations": [
+      { "id": "track02_1", "name": "Main Circuit", "preview": "WF2/tracks/track02_1.webp" },
+      { "id": "track02_1_rev", "name": "Main Circuit Reverse", "preview": "WF2/tracks/track02_1_rev.webp" },
+      { "id": "track02_2", "name": "Short Circuit", "preview": "WF2/tracks/track02_2.webp" },
+      { "id": "track02_2_rev", "name": "Short Circuit Reverse", "preview": "WF2/tracks/track02_2_rev.webp" }
+    ]
+  },
+  {
+    "id": "track07",
+    "name": "Scrapyard",
+    "preview": "WF2/tracks/track07.webp",
+    "variations": [
+      { "id": "track07_1", "name": "Main Route", "preview": "WF2/tracks/track07_1.webp" },
+      { "id": "track07_1_rev", "name": "Main Route Reverse", "preview": "WF2/tracks/track07_1_rev.webp" },
+      { "id": "track07_2", "name": "Demolition Arena", "preview": "WF2/tracks/track07_2.webp" },
+      { "id": "track07_3", "name": "Bonebreaker", "preview": "WF2/tracks/track07_3.webp" },
+      { "id": "track07_4", "name": "Speedbowl", "preview": "WF2/tracks/track07_4.webp" },
+      { "id": "track07_5", "name": "Figure 8", "preview": "WF2/tracks/track07_5.webp" }
+    ]
+  },
+  {
+    "id": "track06",
+    "name": "Speedway",
+    "preview": "WF2/tracks/track06.webp",
+    "variations": [
+      { "id": "track06_1", "name": "Outer Oval", "preview": "WF2/tracks/track06_1.webp" },
+      { "id": "track06_2", "name": "Derby", "preview": "WF2/tracks/track06_2.webp" },
+      { "id": "track06_3", "name": "Inner Oval", "preview": "WF2/tracks/track06_3.webp" },
+      { "id": "track06_4", "name": "Figure 8", "preview": "WF2/tracks/track06_4.webp" }
+    ]
+  },
+  {
+    "id": "track08",
+    "name": "Testing Grounds",
+    "preview": "WF2/tracks/track08.webp",
+    "variations": [
+      { "id": "track08_1", "name": "Testing Grounds", "preview": "WF2/tracks/track08_1.webp" }
+    ]
+  },
+  {
+    "id": "track09",
+    "name": "UK Banger 1",
+    "preview": "WF2/tracks/track09.webp",
+    "variations": [
+      { "id": "track09_1", "name": "Oval", "preview": "WF2/tracks/track09_1.webp" },
+      { "id": "track09_2", "name": "Figure 8", "preview": "WF2/tracks/track09_2.webp" },
+      { "id": "track09_3", "name": "Derby", "preview": "WF2/tracks/track09_3.webp" }
+    ]
+  }
+]

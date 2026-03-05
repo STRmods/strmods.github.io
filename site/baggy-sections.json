@@ -1,0 +1,66 @@
+[
+  {
+    "id": "links",
+    "title": "Useful Links",
+    "icon": "UsefulLinks.png",
+    "iconAlt": "UsefulLinks-alt.png",
+    "type": "click-card",
+    "items": [
+      { "text": "Wreckfest Modding Wiki", "url": "https://tads.me.uk/wfwiki/index.php?title=Main_Page", "icon": "wiki.png", "iconAlt": "wiki-alt.png" },
+      { "text": "Mazay's Site", "url": "https://mazay.fi/wf/", "icon": "mazay.png", "iconAlt": "mazay-alt.png" },
+      { "text": "Wreckfest Chronicle", "url": "https://docs.google.com/spreadsheets/d/18-g1-I68g1B-9bumvV1HxUVcuD41DBczCyUGH3rdNiQ", "icon": "WFchronicle.png", "iconAlt": "WFchronicle-alt.png" },
+      { "text": "STRmods WF2 Steam Guides", "url": "https://steamcommunity.com/id/STRmods/myworkshopfiles/?section=guides&appid=1203190", "icon": "Steam.png", "iconAlt": "Steam-alt.png" },
+      { "text": "Official Wreckfest Discord", "url": "https://discord.com/invite/wreckfest", "icon": "Discord.webp", "iconAlt": "Discord-alt.webp" }
+    ]
+  },
+  {
+    "id": "tools",
+    "title": "Tools",
+    "icon": "Tools.png",
+    "iconAlt": "Tools-alt.png",
+    "type": "click-card",
+    "items": [
+      { "text": "Wreckfest Toolbox", "url": "https://github.com/gmazy/wreckfest_toolbox", "icon": "toolbox.png", "iconAlt": "toolbox-alt.png" },
+      { "text": "Breckfest", "url": "https://github.com/MaxxWyndham/Breckfest", "icon": "breckfest.png", "iconAlt": "breckfest-alt.png" },
+      { "text": "WF2 Mod support at home (Vortex Extension)", "url": "https://www.nexusmods.com/site/mods/1311", "icon": "NexusMods.png", "iconAlt": "NexusMods-alt.png" },
+      { "text": "WF2 VLDL Tool", "url": "https://www.nexusmods.com/wreckfest2/mods/38", "icon": "VLDLtool.png", "iconAlt": "VLDLtool-alt.png" }
+    ]
+  },
+  {
+    "id": "steamdb",
+    "title": "SteamDB Pages",
+    "icon": "steamdb.png",
+    "iconAlt": "steamdb-alt.png",
+    "type": "click-card",
+    "items": [
+      { "text": "WF1 Patch Notes", "url": "https://steamdb.info/app/228380/patchnotes/", "icon": "PatchNotes.png", "iconAlt": "PatchNotes-alt.png" },
+      { "text": "WF1 Manifests", "url": "https://steamdb.info/depot/228381/manifests/", "icon": "Manifests.png", "iconAlt": "Manifests-alt.png" },
+      { "text": "WF1 Server Manifests", "url": "https://steamdb.info/depot/361581/manifests/", "icon": "ServerManifests.png", "iconAlt": "ServerManifests-alt.png" },
+      { "text": "WF2 Patch Notes", "url": "https://steamdb.info/app/1203190/patchnotes/", "icon": "PatchNotes.png", "iconAlt": "PatchNotes-alt.png" },
+      { "text": "WF2 Manifests", "url": "https://steamdb.info/depot/1203191/manifests/", "icon": "Manifests.png", "iconAlt": "Manifests-alt.png" },
+      { "text": "WF2 Server Manifests", "url": "https://steamdb.info/depot/3519391/manifests/", "icon": "ServerManifests.png", "iconAlt": "ServerManifests-alt.png" }
+    ]
+  },
+  {
+    "id": "wf1",
+    "title": "WF1 Info",
+    "icon": "wf1.png",
+    "iconAlt": "wf1-alt.png",
+    "type": "info-card",
+    "lists": [
+      { "text": "Vehicle List", "icon": "VehicleList.png", "iconAlt": "VehicleList-alt.png", "json": "site/wf1_vehicles.json" },
+      { "text": "Track List", "icon": "TrackList.png", "iconAlt": "TrackList-alt.png", "json": "site/wf1_tracks.json" }
+    ]
+  },
+  {
+    "id": "wf2",
+    "title": "WF2 Info",
+    "icon": "wf2.png",
+    "iconAlt": "wf2-alt.png",
+    "type": "info-card",
+    "lists": [
+      { "text": "Vehicle List", "icon": "VehicleList.png", "iconAlt": "VehicleList-alt.png", "json": "site/wf2_vehicles.json" },
+      { "text": "Track List", "icon": "TrackList.png", "iconAlt": "TrackList-alt.png", "json": "site/wf2_tracks.json" }
+    ]
+  }
+]

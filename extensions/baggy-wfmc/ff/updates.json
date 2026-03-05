@@ -1,0 +1,20 @@
+{
+  "addons": {
+    "baggy@strmods.github.io": {
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://strmods.github.io/extensions/baggy-wfmc/ff/builds/unlisted/baggy-wfmc-0.1.0.xpi"
+        },
+		{
+          "version": "0.1.1",
+          "update_link": "https://strmods.github.io/extensions/baggy-wfmc/ff/builds/unlisted/baggy-wfmc-0.1.1.xpi"
+        },
+		{
+          "version": "0.1.2",
+          "update_link": "https://strmods.github.io/extensions/baggy-wfmc/ff/builds/unlisted/baggy-wfmc-0.1.2.xpi"
+        }
+      ]
+    }
+  }
+}
