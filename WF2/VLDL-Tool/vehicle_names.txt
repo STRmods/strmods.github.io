@@ -22,7 +22,7 @@
 { "harvester_super", "Hellvester" },
 { "lawnmower", "Lawn Mower" },
 { "motorhome", "Motorhome" },
-{ "schoolbus", "School Bus" },
+{ "school_bus", "School Bus" },
 { "sofa_car", "Sofa Car" },
 { "stock_car", "Stock Car" },
 { "supervan", "Supervan" },

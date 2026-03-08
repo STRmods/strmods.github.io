@@ -13,7 +13,17 @@
     "name": "Crash Canyon",
     "preview": "WF2/tracks/track10.webp",
     "variations": [
+      { "id": "track10_1", "name": "Waypoint Race", "preview": "WF2/tracks/track10_1.webp" },
       { "id": "track10_2", "name": "Main Route", "preview": "WF2/tracks/track10_2.webp" }
+    ]
+  },
+  {
+    "id": "track12",
+    "name": "Dalsbanen",
+    "preview": "WF2/tracks/track12.webp",
+    "variations": [
+      { "id": "track12_1", "name": "Main Circuit", "preview": "WF2/tracks/track12_1.webp" },
+      { "id": "track12_2", "name": "Main Circuit Reverse", "preview": "WF2/tracks/track12_2.webp" }
     ]
   },
   {
