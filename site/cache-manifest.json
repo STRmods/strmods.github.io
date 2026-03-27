@@ -1,5 +1,5 @@
 {
-  "version": "2026-03-11T10:06:27.220478+00:00",
+  "version": "2026-03-27T11:34:34.022012+00:00",
   "assets": {
     "WF1/tracks/bigstadium.webp": "91f35e87",
     "WF1/tracks/bigstadium_demolition_arena-alt.webp": "2a756f2c",
@@ -421,8 +421,8 @@
     "WF1/vehicles/stock_car.webp": "864aca0d",
     "WF1/vehicles/supervan.webp": "aaeb6885",
     "WF1/vehicles/toilet_car.webp": "d4bda2fc",
-    "WF2/VLDL-Tool/vehicle_names.sha256": "fe45b73b",
-    "WF2/VLDL-Tool/vehicle_names.txt": "57d7fb13",
+    "WF2/VLDL-Tool/vehicle_names.sha256": "f09d0e37",
+    "WF2/VLDL-Tool/vehicle_names.txt": "394cf5b0",
     "WF2/tracks/track01.webp": "9760683b",
     "WF2/tracks/track01_1-alt.webp": "01adf033",
     "WF2/tracks/track01_1.webp": "34a24e40",
@@ -570,7 +570,7 @@
     "assets/wf2.png": "e8841a0f",
     "assets/wiki-alt.png": "83bc5ff7",
     "assets/wiki.png": "3e375266",
-    "index.html": "a48b3c9f",
+    "index.html": "619294b4",
     "site/baggy-cache.js": "6676a21b",
     "site/baggy-config.js": "bbf0c528",
     "site/baggy-embed-green.html": "fff9cfda",
