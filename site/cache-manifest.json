@@ -1,5 +1,5 @@
 {
-  "version": "2026-03-27T11:34:34.022012+00:00",
+  "version": "2026-03-27T12:54:38.813442+00:00",
   "assets": {
     "WF1/tracks/bigstadium.webp": "91f35e87",
     "WF1/tracks/bigstadium_demolition_arena-alt.webp": "2a756f2c",
@@ -570,7 +570,7 @@
     "assets/wf2.png": "e8841a0f",
     "assets/wiki-alt.png": "83bc5ff7",
     "assets/wiki.png": "3e375266",
-    "index.html": "619294b4",
+    "index.html": "f3071b41",
     "site/baggy-cache.js": "6676a21b",
     "site/baggy-config.js": "bbf0c528",
     "site/baggy-embed-green.html": "fff9cfda",
