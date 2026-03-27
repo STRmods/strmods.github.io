@@ -1,4 +1,4 @@
+Sitemap: https://strmods.github.io/sitemap.xml
+
 User-agent: *
 Allow: /
-
-Sitemap: https://strmods.github.io/sitemap.xml
