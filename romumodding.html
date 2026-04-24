@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="Modding resources for Wreckfest, Wreckfest 2 and related ROMU engine games.">
+<meta name="author" content="STRmods">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="robots" content="index, follow">
+<meta name="format-detection" content="telephone=no">
+<meta name="theme-color" content="#072000">
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://strmods.github.io/romumodding.html" />
+<meta property="og:title" content="STRmods - Wreckfest & ROMU Modding Resources" />
+<meta property="og:description" content="Modding resources for Wreckfest, Wreckfest 2 and related ROMU engine games." />
+<meta property="og:image" content="https://strmods.github.io/assets/STRmods-TimeToHack.gif" />
+<meta property="og:image:width" content="250">
+<meta property="og:image:height" content="250">
+<meta property="og:image:type" content="image/gif">
+<meta property="og:image:alt" content="STRmods Hackerman">
+<meta property="og:site_name" content="STRmods" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="STRmods - Wreckfest & ROMU Modding Resources">
+<meta name="twitter:description" content="Modding resources for Wreckfest, Wreckfest 2 and related ROMU engine games.">
+<meta name="twitter:image" content="https://strmods.github.io/assets/STRmods-TimeToHack.gif">
+<meta name="twitter:image:alt" content="STRmods Hackerman">
+<title>STRmods - Wreckfest Modding Resources</title>
+<link rel="stylesheet" href="/site/styles.css" />
+<link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+<link rel="shortcut icon" href="/assets/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="STRmods" />
+<link rel="manifest" href="/assets/site.webmanifest" />
+<link rel="canonical" href="https://strmods.github.io/romumodding.html">
+<script type="application/ld+json" id="strmods-jsonld">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "STRmods",
+  "url": "https://strmods.github.io/romumodding.html",
+  "description": "Modding resources for Wreckfest, Wreckfest 2 and related ROMU engine games."
+}
+</script>
+
+<style>
+  .main-content h1.resource-page-title {
+    color: var(--accent);
+    font-size: 2.4em !important;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-shadow:
+      -0.8px 0 0 rgba(255, 0, 0, 0.25),
+       0.8px 0 0 rgba(0, 255, 255, 0.25),
+       0 0 10px var(--accent-glow),
+       0 0 20px var(--accent-glow);
+    letter-spacing: 0.03em;
+    font-family: 'Terminal', 'Courier New', monospace;
+  }
+
+  .main-content p.resource-page-subtitle {
+    color: #0f0;
+    font-size: 1.3em !important;
+    margin-bottom: 36px;
+    font-family: 'Terminal', 'Courier New', monospace;
+    text-shadow:
+      -0.5px 0 0 rgba(255, 0, 0, 0.3),
+       0.5px 0 0 rgba(0, 255, 255, 0.3),
+       0 0 3px currentColor;
+    opacity: 0.75;
+  }
+
+  /* Two-column grid for WF1 + WF2 */
+  .resource-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    margin-bottom: 28px;
+  }
+
+  /* Full-width row for Other */
+  .resource-row-other {
+    margin-bottom: 28px;
+  }
+
+  /* Column box */
+  .resource-box {
+    border: 1px solid var(--accent);
+    border-radius: 10px;
+    background: var(--panel);
+    box-shadow: 0 0 10px var(--accent-glow), 0 4px 16px rgba(0,0,0,0.5);
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .resource-box-header {
+    background: linear-gradient(180deg, #0a3000, #072000);
+    border-bottom: 1px solid var(--accent);
+    padding: 14px 20px;
+    font-size: 1.6em;
+    font-weight: 700;
+    color: var(--accent);
+    font-family: 'Terminal', 'Courier New', monospace;
+    text-shadow:
+      -0.8px 0 0 rgba(255, 0, 0, 0.25),
+       0.8px 0 0 rgba(0, 255, 255, 0.25),
+       0 0 8px var(--accent-glow);
+    letter-spacing: 0.05em;
+  }
+
+  .resource-list {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  /* Individual resource entry card */
+  .resource-entry {
+    background: #051800;
+    border: 1px solid #0a4000;
+    border-radius: 8px;
+    padding: 14px 16px;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .resource-entry:hover {
+    border-color: var(--accent);
+    box-shadow: 0 0 10px var(--accent-glow);
+  }
+
+  .resource-entry-title {
+    color: var(--accent);
+    font-size: 1.4em;
+    font-weight: 700;
+    font-family: 'Terminal', 'Courier New', monospace;
+    margin-bottom: 8px;
+    text-shadow:
+      -0.8px 0 0 rgba(255, 0, 0, 0.25),
+       0.8px 0 0 rgba(0, 255, 255, 0.25),
+       0 0 5px var(--accent-glow);
+  }
+
+  .resource-entry-img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    max-height: 120px;
+    object-fit: cover;
+    border: 1px solid #0a4000;
+    border-radius: 5px;
+    margin-bottom: 8px;
+  }
+  
+  /* Generic download icon overrides */
+  .resource-entry-img.generic-img {
+    max-height: 48px;
+    border: none;
+    object-fit: contain;
+  }
+  .clickable-img {
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .clickable-img:hover {
+    border-color: var(--accent);
+    box-shadow: 0 0 10px var(--accent-glow);
+  }
+
+  .main-content p.resource-entry-desc {
+    color: #0f0;
+    font-size: 1em;  !important;
+    line-height: 1.3;  !important;
+    font-family: 'Terminal', 'Courier New', monospace;
+    text-shadow:
+      -0.5px 0 0 rgba(255, 0, 0, 0.3),
+       0.5px 0 0 rgba(0, 255, 255, 0.3),
+       0 0 3px currentColor;
+    margin-bottom: 10px;
+  }
+
+  .resource-entry-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--accent);
+    font-size: 1em;
+    font-family: 'Terminal', 'Courier New', monospace;
+    text-decoration: none;
+    border: 1px solid #0a4000;
+    border-radius: 4px;
+    padding: 5px 10px;
+    background: #0a2800;
+    transition: all 0.2s ease;
+    word-break: break-all;
+  }
+
+  .resource-entry-link:hover {
+    background: #0d3500;
+    border-color: var(--accent);
+    box-shadow: 0 0 8px var(--accent-glow);
+  }
+
+  .resource-entry-link::before {
+    content: "";
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background: url('https://strmods.github.io/assets/DownloadIcon.png') no-repeat center center;
+    background-size: contain;
+    flex-shrink: 0;
+  }
+
+  /* Empty placeholder for future entries */
+  .resource-placeholder {
+    color: #0a4000;
+    font-size: 0.85em;
+    font-family: 'Terminal', 'Courier New', monospace;
+    padding: 10px 4px;
+    border: 1px dashed #0a3000;
+    border-radius: 6px;
+    text-align: center;
+    letter-spacing: 0.05em;
+  }
+
+  @media (max-width: 900px) {
+    .resource-columns {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .resource-page-title {
+      font-size: 1.6em !important;
+    }
+  }
+  
+  /* Go Home button */
+  .go-home-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--accent);
+    font-size: 1.0em;
+    font-family: 'Terminal', 'Courier New', monospace;
+    text-decoration: none;
+    border: 1px solid #0a4000;
+    border-radius: 4px;
+    padding: 6px 14px;
+    background: #0a2800;
+    transition: all 0.2s ease;
+    margin-bottom: 28px;
+    margin-top: -8px;
+  }
+
+  .go-home-btn:hover {
+    background: #0d3500;
+    border-color: var(--accent);
+    box-shadow: 0 0 8px var(--accent-glow);
+    transform: translateX(-3px);
+  }
+
+  .go-home-btn::before {
+    content: "◀";
+    font-size: 0.85em;
+  }
+
+  /* Image Lightbox Modal */
+  .image-modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(7, 32, 0, 0.85);
+    backdrop-filter: blur(4px);
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .image-modal.show {
+    display: flex;
+  }
+  
+  .image-modal-content {
+    max-width: 90vw;
+    max-height: 90vh;
+    border: 2px solid var(--accent);
+    border-radius: 8px;
+    box-shadow: 0 0 30px var(--accent-glow);
+    object-fit: contain;
+  }
+  
+  .image-modal-close {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #0f0;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 2001;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+  }
+  
+  .image-modal-close:hover {
+    color: var(--accent);
+    text-shadow: 0 0 10px var(--accent-glow);
+  }
+</style>
+</head>
+<body>
+
+  <button id="mobileBaggyBtn" class="mobile-baggy-btn">
+    <img src="assets/Baggy.png" alt="Open Baggy" width="40" height="40">
+    <span>Open Baggy</span>
+  </button>
+
+  <div class="page-wrapper">
+    <main class="main-content">
+
+      <h1 class="resource-page-title">Wreckfest & ROMU Modding Resources</h1>
+      <p class="resource-page-subtitle">// Downloads, reference files and assets for Wreckfest modding</p>
+	  
+		<a class="go-home-btn" href="https://strmods.github.io/">Go Home</a>
+
+        <!-- ─── WF1/WF2 Columns ─────────────────────────────────────── -->
+      <div class="resource-columns">
+
+        <!-- ─── WRECKFEST 1 ─────────────────────────────────────── -->
+        <div class="resource-box">
+          <div class="resource-box-header">▸ Wreckfest</div>
+          <div class="resource-list" id="wf1-resources-container">
+          </div>
+        </div>
+
+        <!-- ─── WRECKFEST 2 ─────────────────────────────────────── -->
+        <div class="resource-box">
+          <div class="resource-box-header">▸ Wreckfest 2</div>
+          <div class="resource-list" id="wf2-resources-container">
+          </div>
+        </div>
+
+      </div>
+
+
+        <!-- ─── Other ─────────────────────────────────────── -->
+      <div class="resource-row-other">
+        <div class="resource-box">
+          <div class="resource-box-header">▸ Other</div>
+          <div class="resource-list" id="other-resources-container">
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+        <!-- ─── Baggy ─────────────────────────────────────── -->
+    <aside class="sticky-sidebar">
+      <header class="header">
+        <img id="logo" src="assets/Baggy.png" alt="Baggy" width="32" height="32">
+        <div class="title-group">
+          <div class="title">Baggy</div>
+          <div class="subtitle">The WF modding companion</div>
+        </div>
+      </header>
+
+      <div class="sidebar-content fadein">
+        <form id="wikiSearchForm" action="https://tads.me.uk/wfwiki/index.php" method="get" target="_blank">
+          <input id="search" class="search" name="search" placeholder="Search WF modding wiki" />
+        </form>
+
+        <div id="baggy-menu-container"></div>
+
+        <footer class="footer">
+          <small>Created by STRmods</small><br>
+          <button id="embedBtn" class="embed-btn">
+            <img src="assets/Baggy.png" alt="Baggy icon" class="embed-btn-icon">
+            Baggy Embed
+          </button>
+          <div class="ext-container">
+            <span class="ext-label">Browser Extensions</span>
+            <div class="ext-buttons">
+              <a href="https://chromewebstore.google.com/detail/hafphdlbaoncglcgohlpjbinmofcdgan" target="_blank" class="ext-btn" title="Chrome Extension">
+                <img src="assets/chrome.png" alt="Chrome">
+              </a>
+              <a href="https://addons.mozilla.org/en-GB/firefox/addon/baggy-wfmc/" target="_blank" class="ext-btn" title="Firefox Extension">
+                <img src="assets/firefox.png" alt="Firefox">
+              </a>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </aside>
+  </div>
+
+  <div id="embedModal" class="embed-modal">
+    <div class="embed-modal-content">
+      <span class="embed-close">&times;</span>
+      <h2>Embed Baggy on Your Site</h2>
+      <p>Choose a theme and copy the code below:</p>
+
+      <div class="theme-selector">
+        <button class="theme-btn active" data-theme="green">🟢 Green Theme</button>
+        <button class="theme-btn" data-theme="orange">🟠 Orange Theme</button>
+      </div>
+
+      <textarea id="embedCode" readonly></textarea>
+      <button id="copyEmbedBtn" class="copy-btn">Copy to Clipboard</button>
+      <p class="copy-feedback" id="copyFeedback">Copied!</p>
+
+      <button id="closeModalBtn" class="close-modal-btn">✕ Close</button>
+    </div>
+  </div>
+
+  <!-- Image Lightbox Container -->
+  <div id="imageLightbox" class="image-modal">
+    <span class="image-modal-close" id="lightboxClose">&times;</span>
+    <img class="image-modal-content" id="lightboxImg">
+  </div>
+<script src="/site/baggy-cache.js"></script>
+<script src="/site/baggy-config.js"></script>
+<script src="/site/popup.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Lightbox Logic
+    const lightbox = document.getElementById('imageLightbox');
+    const lightboxImg = document.getElementById('lightboxImg');
+    const lightboxClose = document.getElementById('lightboxClose');
+
+    window.openLightbox = function(src) {
+        lightboxImg.src = src;
+        lightbox.classList.add('show');
+    };
+
+    function closeLightbox() {
+        lightbox.classList.remove('show');
+        setTimeout(() => lightboxImg.src = '', 200);
+    }
+
+    if(lightboxClose) lightboxClose.addEventListener('click', closeLightbox);
+    
+    if(lightbox) {
+        lightbox.addEventListener('click', function(e) {
+            if (e.target === lightbox) {
+                closeLightbox();
+            }
+        });
+    }
+    
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && lightbox.classList.contains('show')) {
+            closeLightbox();
+        }
+    });
+
+    // Load JSON Data			 
+    function loadResources(url, containerId) {
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Network response was not ok");
+                }
+                return response.json();
+            })
+            .then(data => {
+                const container = document.getElementById(containerId);
+                if (!container) return;
+
+                if (data.length === 0) {
+                    container.innerHTML = '<div class="resource-placeholder">// Nothing to see here, move along.</div>';
+                    return;
+                }
+
+                let html = '';
+                data.forEach(item => {
+                    html += '<div class="resource-entry">';
+                    html += '<div class="resource-entry-title">' + item.title + '</div>';
+                    if (item.image) {
+                        const isGenericIcon = item.image === "https://strmods.github.io/assets/DownloadGeneric.png";
+                        
+                        if (!isGenericIcon) {
+                            html += '<img class="resource-entry-img clickable-img" src="' + item.image + '" alt="' + item.title + '" onclick="openLightbox(\'' + item.image + '\')">';
+                        } else {
+                            html += '<img class="resource-entry-img generic-img" src="' + item.image + '" alt="' + item.title + '">';
+                        }
+                    }
+                    html += '<p class="resource-entry-desc">' + item.description + '</p>';
+                    html += '<a class="resource-entry-link" href="' + item.linkUrl + '" target="_blank" download>' + item.linkText + '</a>';
+                    html += '</div>';
+                });
+
+                container.innerHTML = html;
+            })
+            .catch(error => {
+                console.error("Error loading resources from " + url + ":", error);
+                const container = document.getElementById(containerId);
+                if (container && container.innerHTML === '') {
+                    container.innerHTML = '<div class="resource-placeholder">// Error loading resources.</div>';
+                }
+            });
+    }
+
+    loadResources('/site/wf-resources.json', 'wf1-resources-container');
+    loadResources('/site/wf2-resources.json', 'wf2-resources-container');
+    loadResources('/site/other-resources.json', 'other-resources-container');
+});
+</script>
+</body>
+</html>
