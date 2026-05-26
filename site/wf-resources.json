@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Unpacked Vehicle Settings 2026",
+    "description": "Official vehicle settings unpacked from .pckd, useful for using as mod vehicle base or reference.",
+    "image": "https://strmods.github.io/assets/DownloadGeneric.png",
+    "linkText": "WF1 Unpacked Vehicle Settings (STRmods 2026).zip",
+    "linkUrl": "https://www.mediafire.com/file/mcopbcx22nf1o69/"
+  },
+  {
+    "title": "Wrapper Fix (Bugged Error Messages)",
+    "description": "This fixes the broken error messages that appear from crashes where it only shows a single character as the description and an 'O' on the OK button. Restoring the ability to see the full error message.",
+    "image": "https://staticdelivery.nexusmods.com/mods/4059/images/9/9-1778594552-1882387391.png",
+    "linkText": "STRmods-WF1-WrapperFix.zip",
+    "linkUrl": "https://www.mediafire.com/file/ijgrekiu38rn28k/",
+	"linkmirrorUrl": "https://strmods.github.io/WF1/resources/STRmods-WF1-WrapperFix.zip",
+	"linkmirrorNXUrl": "https://www.nexusmods.com/wreckfest/mods/9"
+  }
+]
