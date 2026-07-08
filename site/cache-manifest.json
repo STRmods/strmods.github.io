@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-26T07:04:09.182992+00:00",
+  "version": "2026-07-08T01:13:24.818813+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -438,6 +438,10 @@
     "WF2/tracks/track02_2.webp": "8d611adf",
     "WF2/tracks/track02_2_rev-alt.webp": "dda0ebcd",
     "WF2/tracks/track02_2_rev.webp": "5d6df11d",
+    "WF2/tracks/track02_2_sr-alt.webp": "c41e2086",
+    "WF2/tracks/track02_2_sr.webp": "2185be50",
+    "WF2/tracks/track02_3-alt.webp": "1441b477",
+    "WF2/tracks/track02_3.webp": "8a73e5b8",
     "WF2/tracks/track04.webp": "fb578195",
     "WF2/tracks/track04_1-alt.webp": "cd7a7db1",
     "WF2/tracks/track04_1.webp": "f78a2c0d",
@@ -457,6 +461,10 @@
     "WF2/tracks/track06_3.webp": "ad909198",
     "WF2/tracks/track06_4-alt.webp": "acff0fe7",
     "WF2/tracks/track06_4.webp": "0da9e8a8",
+    "WF2/tracks/track06_5-alt.webp": "43d8c7e8",
+    "WF2/tracks/track06_5.webp": "380f6675",
+    "WF2/tracks/track06_6-alt.webp": "cf44e716",
+    "WF2/tracks/track06_6.webp": "95254644",
     "WF2/tracks/track07.webp": "001adf36",
     "WF2/tracks/track07_1-alt.webp": "e27d8c3d",
     "WF2/tracks/track07_1.webp": "5f01b3d9",
@@ -470,6 +478,8 @@
     "WF2/tracks/track07_4.webp": "17490e50",
     "WF2/tracks/track07_5-alt.webp": "fb6e7492",
     "WF2/tracks/track07_5.webp": "3dfa74c0",
+    "WF2/tracks/track07_6-alt.webp": "7ee66fe9",
+    "WF2/tracks/track07_6.webp": "c322066d",
     "WF2/tracks/track08.webp": "ccc17fb7",
     "WF2/tracks/track08_1-alt.webp": "ccd2b33f",
     "WF2/tracks/track08_1.webp": "0a388b26",
@@ -480,6 +490,10 @@
     "WF2/tracks/track09_2.webp": "93ee6903",
     "WF2/tracks/track09_3-alt.webp": "69c75f6a",
     "WF2/tracks/track09_3.webp": "358e8b97",
+    "WF2/tracks/track09_4-alt.webp": "85075746",
+    "WF2/tracks/track09_4.webp": "4b8a71bc",
+    "WF2/tracks/track09_5-alt.webp": "541642c5",
+    "WF2/tracks/track09_5.webp": "8b41fc9e",
     "WF2/tracks/track10.webp": "e5efa1d6",
     "WF2/tracks/track10_1-alt.webp": "94693c8d",
     "WF2/tracks/track10_1.webp": "af1249b8",
@@ -522,6 +536,8 @@
     "WF2/vehicles/car14.webp": "bb371803",
     "WF2/vehicles/car15.webp": "d4ac340f",
     "WF2/vehicles/car16.webp": "672e9f26",
+    "WF2/vehicles/car21.webp": "74601ad9",
+    "WF2/vehicles/car26.webp": "5a85623c",
     "WF2/vehicles/motorhome.webp": "9c5e6d35",
     "WF2/vehicles/school_bus.webp": "0d4d5dc6",
     "assets/Baggy-alt.png": "0a136b85",
@@ -604,7 +620,7 @@
     "site/wf1_tracks.json": "69d540b4",
     "site/wf1_vehicles.json": "6375b6ad",
     "site/wf2-resources.json": "ad99d681",
-    "site/wf2_tracks.json": "a31da051",
-    "site/wf2_vehicles.json": "6d492fce"
+    "site/wf2_tracks.json": "23fab2d5",
+    "site/wf2_vehicles.json": "4677e93f"
   }
 }

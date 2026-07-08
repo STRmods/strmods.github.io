@@ -17,5 +17,7 @@
   { "id": "school_bus", "name": "School Bus", "preview": "WF2/vehicles/school_bus.webp" },
   { "id": "car15", "name": "Stahlwagen", "preview": "WF2/vehicles/car15.webp" },
   { "id": "car11", "name": "Switchback", "preview": "WF2/vehicles/car11.webp" },
-  { "id": "car16", "name": "Valken", "preview": "WF2/vehicles/car16.webp" }
+  { "id": "car16", "name": "Valken", "preview": "WF2/vehicles/car16.webp" },
+  { "id": "car21", "name": "Bullet", "preview": "WF2/vehicles/car21.webp" },
+  { "id": "car26", "name": "Jackal", "preview": "WF2/vehicles/car26.webp" }
 ]

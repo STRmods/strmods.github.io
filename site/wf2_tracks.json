@@ -152,6 +152,16 @@
         "id": "track02_2_rev",
         "name": "Short Circuit Reverse",
         "preview": "WF2/tracks/track02_2_rev.webp"
+      },
+      {
+        "id": "track02_2_sr",
+        "name": "Suicide Circuit Short",
+        "preview": "WF2/tracks/track02_2_sr.webp"
+      },
+      {
+        "id": "track02_3",
+        "name": "Waypoint Race",
+        "preview": "WF2/tracks/track02_3.webp"
       }
     ]
   },
@@ -189,6 +199,11 @@
         "id": "track07_5",
         "name": "Figure 8",
         "preview": "WF2/tracks/track07_5.webp"
+      },
+      {
+        "id": "track07_6",
+        "name": "Scrapyard Waypoint Race",
+        "preview": "WF2/tracks/track07_6.webp"
       }
     ]
   },
@@ -216,6 +231,16 @@
         "id": "track06_4",
         "name": "Figure 8",
         "preview": "WF2/tracks/track06_4.webp"
+      },
+      {
+        "id": "track06_5",
+        "name": "Suicide 8",
+        "preview": "WF2/tracks/track06_5.webp"
+      },
+      {
+        "id": "track06_6",
+        "name": "Suicide Oval",
+        "preview": "WF2/tracks/track06_6.webp"
       }
     ]
   },
@@ -250,6 +275,16 @@
         "id": "track09_3",
         "name": "Derby",
         "preview": "WF2/tracks/track09_3.webp"
+      },
+      {
+        "id": "track09_4",
+        "name": "Suicide Dirt Oval",
+        "preview": "WF2/tracks/track09_4.webp"
+      },
+      {
+        "id": "track09_5",
+        "name": "Suicide Dirt 8",
+        "preview": "WF2/tracks/track09_5.webp"
       }
     ]
   }
