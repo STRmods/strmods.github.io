@@ -22,7 +22,7 @@
 |---|---|
 | <img src="https://strmods.github.io/assets/wiki-alt.png" width="24" height="24"/> **WF Modding Wiki** | [tads.me.uk/wfwiki/](https://tads.me.uk/wfwiki/index.php?title=Main_Page) |
 | <img src="https://strmods.github.io/assets/mazay-alt.png" width="24" height="24"/> **Mazay's Site** | [mazay.fi/wf](https://mazay.fi/wf/) |
-| <img src="https://strmods.github.io/assets/ROMUmodding-alt.png" width="24" height="24"/> **STRmods WF/ROMU Modding Resources** | [/romumodding](https://strmods.github.io/romumodding.html) |
+| <img src="https://strmods.github.io/assets/ROMUmodding-alt.png" width="24" height="24"/> **STRmods WF/ROMU Modding Resources** | [/romumodding](https://strmods.github.io/romumodding) |
 | <img src="https://strmods.github.io/assets/Steam-alt.png" width="24" height="24"/> **STRmods WF2 Steam Guides** | [steamcommunity.com/id/STRmods](https://steamcommunity.com/id/STRmods/myworkshopfiles/?section=guides&appid=1203190) |
 | <img src="https://strmods.github.io/assets/WFchronicle-alt.png" width="24" height="24"/> **Wreckfest Chronicle** | [Wreckfest Chronicle Google Spreadsheets](https://docs.google.com/spreadsheets/d/18-g1-I68g1B-9bumvV1HxUVcuD41DBczCyUGH3rdNiQ) |
 | <img src="https://strmods.github.io/assets/Discord-alt.webp" width="24" height="24"/> **Wreckfest Official Discord** | [Wreckfest Discord](https://discord.com/invite/wreckfest) |
