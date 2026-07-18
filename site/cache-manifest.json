@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-18T20:30:33.064617+00:00",
+  "version": "2026-07-18T20:47:14.715512+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -620,7 +620,7 @@
     "site/popup.js": "fff6bf2e",
     "site/styles.css": "8bcac4f0",
     "site/terminal.ttf": "faba73c3",
-    "site/wf-resources.json": "1daff035",
+    "site/wf-resources.json": "b27766dc",
     "site/wf1_tracks.json": "69d540b4",
     "site/wf1_vehicles.json": "6375b6ad",
     "site/wf2-resources.json": "ad99d681",
