@@ -22,9 +22,9 @@
 |---|---|
 | <img src="https://strmods.github.io/assets/wiki-alt.png" width="24" height="24"/> **WF Modding Wiki** | [tads.me.uk/wfwiki/](https://tads.me.uk/wfwiki/index.php?title=Main_Page) |
 | <img src="https://strmods.github.io/assets/mazay-alt.png" width="24" height="24"/> **Mazay's Site** | [mazay.fi/wf](https://mazay.fi/wf/) |
-| <img src="https://strmods.github.io/assets/WFchronicle-alt.png" width="24" height="24"/> **Wreckfest Chronicle** | [Wreckfest Chronicle Google Spreadsheets](https://docs.google.com/spreadsheets/d/18-g1-I68g1B-9bumvV1HxUVcuD41DBczCyUGH3rdNiQ) |
-| <img src="https://strmods.github.io/assets/Steam-alt.png" width="24" height="24"/> **STRmods WF2 Steam Guides** | [steamcommunity.com/id/STRmods](https://steamcommunity.com/id/STRmods/myworkshopfiles/?section=guides&appid=1203190) |
 | <img src="https://strmods.github.io/assets/ROMUmodding-alt.png" width="24" height="24"/> **STRmods WF/ROMU Modding Resources** | [/romumodding](https://strmods.github.io/romumodding.html) |
+| <img src="https://strmods.github.io/assets/Steam-alt.png" width="24" height="24"/> **STRmods WF2 Steam Guides** | [steamcommunity.com/id/STRmods](https://steamcommunity.com/id/STRmods/myworkshopfiles/?section=guides&appid=1203190) |
+| <img src="https://strmods.github.io/assets/WFchronicle-alt.png" width="24" height="24"/> **Wreckfest Chronicle** | [Wreckfest Chronicle Google Spreadsheets](https://docs.google.com/spreadsheets/d/18-g1-I68g1B-9bumvV1HxUVcuD41DBczCyUGH3rdNiQ) |
 | <img src="https://strmods.github.io/assets/Discord-alt.webp" width="24" height="24"/> **Wreckfest Official Discord** | [Wreckfest Discord](https://discord.com/invite/wreckfest) |
 
 ---
@@ -34,9 +34,10 @@
 | Tool | Link |
 |---|---|
 | <img src="https://strmods.github.io/assets/toolbox-alt.png" width="24" height="24"/> **Wreckfest Toolbox for Blender** | [github.com/gmazy/wreckfest_toolbox](https://github.com/gmazy/wreckfest_toolbox) |
-| <img src="https://strmods.github.io/assets/breckfest-alt.png" width="24" height="24"/> **Breckfest - BMAP tool/bag dump tool** | [github.com/MaxxWyndham/Breckfest](https://github.com/MaxxWyndham/Breckfest) |
+| <img src="https://strmods.github.io/assets/WF-AT-alt.png" width="24" height="24"/> **WF-AT - Wreckfest Asset Tool** | [nexusmods.com/site/mods/1311](https://www.nexusmods.com/wreckfest2/mods/55) |
 | <img src="https://strmods.github.io/assets/NexusMods-alt.png" width="24" height="24"/> **Mod support at home (Vortex)** | [nexusmods.com/site/mods/1311](https://www.nexusmods.com/site/mods/1311) |
-| <img src="https://strmods.github.io/assets/VLDLtool-alt.png" width="24" height="24"/> **VLDL Tool for WF2 livery save data** | [nexusmods.com/wreckfest2/mods/38](https://www.nexusmods.com/wreckfest2/mods/38) |
+| <img src="https://strmods.github.io/assets/Decaltool-alt.png" width="24" height="24"/> **Decal Tool for WF2** | [nexusmods.com/wreckfest2/mods/38](https://www.nexusmods.com/wreckfest2/mods/50) |
+| <img src="https://strmods.github.io/assets/breckfest-alt.png" width="24" height="24"/> **Breckfest - BMAP tool/bag dump tool** | [github.com/MaxxWyndham/Breckfest](https://github.com/MaxxWyndham/Breckfest) |
 
 ---
 

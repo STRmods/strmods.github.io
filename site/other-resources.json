@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "WF-AT (Wreckfest Asset Tool)",
+    "description": "A universal asset processing tool for all 'modern' Bugbear ROMU engine games from the Wreckfest era (2012-Present). BMAP dump/build and general 'Bag' file decompressor, with ease of use and wide compatibility as the primary objective.",
+    "image": "https://staticdelivery.nexusmods.com/mods/7488/images/55/55-1784386189-22296781.png",
+    "linkText": "WF-AT.exe",
+    "linkUrl": "https://www.mediafire.com/file/yfgcd4zratvros4/",
+	"linkmirrorUrl": "https://strmods.github.io/tools/wf-at/WF-AT.exe",
+	"linkmirrorNXUrl": "https://www.nexusmods.com/wreckfest/mods/55"
+  }
+]

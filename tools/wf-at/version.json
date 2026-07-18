@@ -1,0 +1,21 @@
+{
+  "latestVersion": "0.1.0.0",
+  "updates": [
+    {
+      "version": "0.1.0.0",
+      "changes": [
+		"Initial public release",
+		"WF1 and Stuntfest tool build support",
+		"Build/Dump with PNG/TGA/DDS (WF1 tools for PNG/DDS)",
+		"WF2 and RRU texture build from official WF1 tools",
+		"Support for newer WF2 BMAP files (DDS for full build support)",
+		"Breckfest Imposter mode for Blender WF Toolbox",
+		"Auto Tune Benchmark for optimal worker theads",
+		"Quick access with right click context/send to",
+		"Asset Info analysis with extra info for BMAP and CAVS",
+		"-wf1, -wf2, -rru and -sf build mode overrides",
+		"-help, -dump, -output and -nowait arguments."
+      ]
+    }
+  ]
+}

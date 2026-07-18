@@ -6,12 +6,12 @@
     "iconAlt": "UsefulLinks-alt.png",
     "type": "click-card",
     "items": [
-      { "text": "Wreckfest Modding Wiki", "url": "https://tads.me.uk/wfwiki/index.php?title=Main_Page", "icon": "wiki.png", "iconAlt": "wiki-alt.png" },
-      { "text": "Mazay's Site", "url": "https://mazay.fi/wf/", "icon": "mazay.png", "iconAlt": "mazay-alt.png" },
-      { "text": "Wreckfest Chronicle", "url": "https://docs.google.com/spreadsheets/d/18-g1-I68g1B-9bumvV1HxUVcuD41DBczCyUGH3rdNiQ", "icon": "WFchronicle.png", "iconAlt": "WFchronicle-alt.png" },
-      { "text": "STRmods WF2 Steam Guides", "url": "https://steamcommunity.com/id/STRmods/myworkshopfiles/?section=guides&appid=1203190", "icon": "Steam.png", "iconAlt": "Steam-alt.png" },
-	  { "text": "STRmods WF/ROMU Modding Resources", "url": "https://strmods.github.io/romumodding.html", "icon": "ROMUmodding.png", "iconAlt": "ROMUmodding-alt.png" },
-      { "text": "Official Wreckfest Discord", "url": "https://discord.com/invite/wreckfest", "icon": "Discord.webp", "iconAlt": "Discord-alt.webp" }
+	  { "text": "Wreckfest Modding Wiki", "url": "https://tads.me.uk/wfwiki/index.php?title=Main_Page", "icon": "wiki.png", "iconAlt": "wiki-alt.png" },
+	  { "text": "Mazay's Site", "url": "https://mazay.fi/wf/", "icon": "mazay.png", "iconAlt": "mazay-alt.png" },
+	  { "text": "STRmods WF/ROMU Modding Resources", "url": "https://strmods.github.io/romumodding", "icon": "ROMUmodding.png", "iconAlt": "ROMUmodding-alt.png" },
+	  { "text": "STRmods WF2 Steam Guides", "url": "https://steamcommunity.com/id/STRmods/myworkshopfiles/?section=guides&appid=1203190", "icon": "Steam.png", "iconAlt": "Steam-alt.png" },
+	  { "text": "Wreckfest Chronicle", "url": "https://docs.google.com/spreadsheets/d/18-g1-I68g1B-9bumvV1HxUVcuD41DBczCyUGH3rdNiQ", "icon": "WFchronicle.png", "iconAlt": "WFchronicle-alt.png" },
+	  { "text": "Official Wreckfest Discord", "url": "https://discord.com/invite/wreckfest", "icon": "Discord.webp", "iconAlt": "Discord-alt.webp" }
     ]
   },
   {
@@ -22,9 +22,10 @@
     "type": "click-card",
     "items": [
       { "text": "Wreckfest Toolbox", "url": "https://github.com/gmazy/wreckfest_toolbox", "icon": "toolbox.png", "iconAlt": "toolbox-alt.png" },
-      { "text": "Breckfest", "url": "https://github.com/MaxxWyndham/Breckfest", "icon": "breckfest.png", "iconAlt": "breckfest-alt.png" },
+	  { "text": "WF-AT (WF Asset Tool)", "url": "https://www.nexusmods.com/wreckfest2/mods/55", "icon": "WF-AT.png", "iconAlt": "WF-AT-alt.png" },
       { "text": "WF2 Mod support at home (Vortex Extension)", "url": "https://www.nexusmods.com/site/mods/1311", "icon": "NexusMods.png", "iconAlt": "NexusMods-alt.png" },
-      { "text": "WF2 VLDL Tool", "url": "https://www.nexusmods.com/wreckfest2/mods/38", "icon": "VLDLtool.png", "iconAlt": "VLDLtool-alt.png" }
+      { "text": "WF2 Decal Tool", "url": "https://www.nexusmods.com/wreckfest2/mods/50", "icon": "Decaltool.png", "iconAlt": "Decaltool-alt.png" },
+      { "text": "Breckfest", "url": "https://github.com/MaxxWyndham/Breckfest", "icon": "breckfest.png", "iconAlt": "breckfest-alt.png" }
     ]
   },
   {
