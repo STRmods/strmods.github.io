@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-18T20:47:14.715512+00:00",
+  "version": "2026-07-18T21:10:22.409573+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -616,7 +616,7 @@
     "site/baggy-embed-orange.html": "73fbc526",
     "site/baggy-embed.js": "53ff46cf",
     "site/baggy-sections.json": "37ce3d1f",
-    "site/other-resources.json": "da12fb44",
+    "site/other-resources.json": "253acd66",
     "site/popup.js": "fff6bf2e",
     "site/styles.css": "8bcac4f0",
     "site/terminal.ttf": "faba73c3",
