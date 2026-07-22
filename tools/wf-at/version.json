@@ -1,6 +1,13 @@
 {
-  "latestVersion": "0.1.0.0",
+  "latestVersion": "0.1.1.0",
   "updates": [
+    {
+      "version": "0.1.1.0",
+      "changes": [
+		"Added support for WF2 HDR textures to Blender",
+		"Altered NS and S map processing for consistency"
+      ]
+    },
     {
       "version": "0.1.0.0",
       "changes": [
@@ -14,7 +21,7 @@
 		"Quick access with right click context/send to",
 		"Asset Info analysis with extra info for BMAP and CAVS",
 		"-wf1, -wf2, -rru and -sf build mode overrides",
-		"-help, -dump, -output and -nowait arguments."
+		"-help, -dump, -output and -nowait arguments"
       ]
     }
   ]
