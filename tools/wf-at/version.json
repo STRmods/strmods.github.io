@@ -4,8 +4,8 @@
     {
       "version": "0.1.1.0",
       "changes": [
-		"Added support for WF2 HDR textures to Blender",
-		"Altered NS and S map processing for consistency"
+		"Add consistency for _s and _ns maps for both TGA/PNG",
+		"Added support of more WF2 BMAP formats to Blender"
       ]
     },
     {
