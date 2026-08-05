@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-22T11:30:33.949645+00:00",
+  "version": "2026-08-05T21:36:39.039378+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -422,8 +422,8 @@
     "WF1/vehicles/stock_car.webp": "864aca0d",
     "WF1/vehicles/supervan.webp": "aaeb6885",
     "WF1/vehicles/toilet_car.webp": "d4bda2fc",
-    "WF2/VLDL-Tool/vehicle_names.sha256": "aa59e5b2",
-    "WF2/VLDL-Tool/vehicle_names.txt": "abf64855",
+    "WF2/VLDL-Tool/vehicle_names.sha256": "f9615b79",
+    "WF2/VLDL-Tool/vehicle_names.txt": "ac09b50a",
     "WF2/tracks/track01.webp": "9760683b",
     "WF2/tracks/track01_1-alt.webp": "01adf033",
     "WF2/tracks/track01_1.webp": "34a24e40",
@@ -625,6 +625,6 @@
     "site/wf1_vehicles.json": "6375b6ad",
     "site/wf2-resources.json": "ad99d681",
     "site/wf2_tracks.json": "23fab2d5",
-    "site/wf2_vehicles.json": "4677e93f"
+    "site/wf2_vehicles.json": "579b68f6"
   }
 }
