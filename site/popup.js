@@ -11,7 +11,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 function appendLines(parent, lines) {
   lines.forEach((text, i) => {
     if (i > 0) parent.appendChild(document.createElement('br'));
-    parent.appendChild(document.createTextNode(text));
+    const parts = text.split('_');
+    parts.forEach((part, j) => {
+      const last = j === parts.length - 1;
+      parent.appendChild(document.createTextNode(last ? part : part + '_'));
+      if (!last) parent.appendChild(document.createElement('wbr'));
+    });
   });
 }
 
