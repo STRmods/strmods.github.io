@@ -213,6 +213,10 @@ body::after {
   overflow-wrap: anywhere;
 }
 
+.baggy-meta {
+  font-size: 0.8em;
+}
+
 /* Baggy scrollbar */
 .sticky-sidebar::-webkit-scrollbar {
   width: 12px;

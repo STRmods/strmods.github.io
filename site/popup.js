@@ -10,12 +10,18 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 function appendLines(parent, lines) {
   lines.forEach((text, i) => {
-    if (i > 0) parent.appendChild(document.createElement('br'));
+    let target = parent;
+    if (i > 0) {
+      parent.appendChild(document.createElement('br'));
+      target = document.createElement('span');
+      target.className = 'baggy-meta';
+      parent.appendChild(target);
+    }
     const parts = text.split('_');
     parts.forEach((part, j) => {
       const last = j === parts.length - 1;
-      parent.appendChild(document.createTextNode(last ? part : part + '_'));
-      if (!last) parent.appendChild(document.createElement('wbr'));
+      target.appendChild(document.createTextNode(last ? part : part + '_'));
+      if (!last) target.appendChild(document.createElement('wbr'));
     });
   });
 }
