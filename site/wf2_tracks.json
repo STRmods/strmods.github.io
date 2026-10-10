@@ -134,7 +134,7 @@
         "id": "track13_2_sr",
         "name": "Suicide Circuit",
         "preview": "WF2/tracks/track13_2_sr.webp",
-        "artdir": "track13_2_sr"
+        "artdir": "track13_2_rev"
       },
       {
         "id": "track13_3",
@@ -177,7 +177,7 @@
         "id": "track02_2_sr",
         "name": "Suicide Circuit Short",
         "preview": "WF2/tracks/track02_2_sr.webp",
-        "artdir": "track02_2_sr"
+        "artdir": "track02_2"
       },
       {
         "id": "track02_3",

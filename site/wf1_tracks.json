@@ -42,7 +42,7 @@
       },
       {
         "id": "speedway2_time_trial1",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/speedway2_time_trial1.webp",
         "artdir": "urban02_8"
       }
@@ -148,7 +148,7 @@
       },
       {
         "id": "sandpit3_trial_circuit",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/sandpit3_trial_circuit.webp",
         "artdir": "sandpit03_3"
       }
@@ -166,22 +166,22 @@
         "artdir": "forest10_1"
       },
       {
+        "id": "mixed9_r1_rev",
+        "name": "Main Circuit Reverse",
+        "preview": "WF1/tracks/mixed9_r1_rev.webp",
+        "artdir": "forest10_1_rev"
+      },
+      {
         "id": "mixed9_r1_2",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/mixed9_r1_2.webp",
         "artdir": "forest10_2"
       },
       {
         "id": "mixed9_r1_3",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/mixed9_r1_3.webp",
         "artdir": "forest10_3"
-      },
-      {
-        "id": "mixed9_r1_rev",
-        "name": "Main Circuit Reverse",
-        "preview": "WF1/tracks/mixed9_r1_rev.webp",
-        "artdir": "forest10_1_rev"
       }
     ]
   },
@@ -242,12 +242,6 @@
     "preview": "WF1/tracks/triangle.webp",
     "variations": [
       {
-        "id": "triangle_3",
-        "name": "Time Trial Circuit",
-        "preview": "WF1/tracks/triangle_3.webp",
-        "artdir": "fields07_3"
-      },
-      {
         "id": "triangle_r1",
         "name": "Dirt Speedway",
         "preview": "WF1/tracks/triangle_r1.webp",
@@ -258,6 +252,12 @@
         "name": "Demolition Arena",
         "preview": "WF1/tracks/triangle_r2.webp",
         "artdir": "fields07_2"
+      },
+      {
+        "id": "triangle_3",
+        "name": "Time Trial Circuit (tour)",
+        "preview": "WF1/tracks/triangle_3.webp",
+        "artdir": "fields07_3"
       }
     ]
   },
@@ -280,7 +280,7 @@
       },
       {
         "id": "fields08_2",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/fields08_2.webp",
         "artdir": "fields08_2"
       }
@@ -431,13 +431,13 @@
       },
       {
         "id": "tarmac1_trial_circuit",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/tarmac1_trial_circuit.webp",
         "artdir": "forest02_3"
       },
       {
         "id": "tarmac1_trial_circuit_2",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/tarmac1_trial_circuit_2.webp",
         "artdir": "forest02_4"
       }
@@ -486,13 +486,13 @@
       },
       {
         "id": "mixed7_r4",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/mixed7_r4.webp",
         "artdir": "forest08_4"
       },
       {
         "id": "mixed7_r5",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/mixed7_r4.webp",
         "artdir": "forest08_5"
       }
@@ -650,7 +650,7 @@
       },
       {
         "id": "gravel1_trial_circuit",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/gravel1_trial_circuit.webp",
         "artdir": "fields02_2"
       }
@@ -805,25 +805,25 @@
       },
       {
         "id": "mixed3_r5",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/mixed3_r5.webp",
         "artdir": "forest05_5"
       },
       {
         "id": "mixed3_r6",
-        "name": "Time Trial Circuit 2",
+        "name": "Time Trial Circuit 2 (tour)",
         "preview": "WF1/tracks/mixed3_r6.webp",
         "artdir": "forest05_6"
       },
       {
         "id": "mixed3_r7",
-        "name": "Time Trial Circuit 3",
+        "name": "Time Trial Circuit 3 (tour)",
         "preview": "WF1/tracks/mixed3_r7.webp",
         "artdir": "forest05_7"
       },
       {
         "id": "mixed3_r8",
-        "name": "Time Trial Circuit 4",
+        "name": "Time Trial Circuit 4 (tour)",
         "preview": "WF1/tracks/mixed3_r8.webp",
         "artdir": "forest05_8"
       }
@@ -899,7 +899,7 @@
       },
       {
         "id": "mixed4_trial_circuit",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/mixed4_trial_circuit.webp",
         "artdir": "forest06_2"
       }
@@ -979,7 +979,7 @@
       },
       {
         "id": "sandpit2_3",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/sandpit2_3.webp",
         "artdir": "sandpit02_3"
       }
@@ -1104,13 +1104,13 @@
       },
       {
         "id": "forest11_3",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/forest11_3.webp",
         "artdir": "forest11_3"
       },
       {
         "id": "forest11_4",
-        "name": "Time Trial Circuit",
+        "name": "Time Trial Circuit (tour)",
         "preview": "WF1/tracks/forest11_4.webp",
         "artdir": "forest11_4"
       }
@@ -1147,10 +1147,58 @@
         "artdir": "wrecker01_1"
       },
       {
-        "id": "wrecker01_2 - *_10",
+        "id": "wrecker01_2",
         "name": "Main Area (Tour)",
         "preview": "WF1/tracks/wrecker01_10.webp",
         "artdir": "wrecker01_2"
+      },
+      {
+        "id": "wrecker01_3",
+        "name": "Main Area (Tour 2)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_3"
+      },
+      {
+        "id": "wrecker01_4",
+        "name": "Main Area (Tour 3)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_4"
+      },
+      {
+        "id": "wrecker01_5",
+        "name": "Main Area (Tour 4)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_5"
+      },
+      {
+        "id": "wrecker01_6",
+        "name": "Main Area (Tour 5)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_6"
+      },
+      {
+        "id": "wrecker01_7",
+        "name": "Main Area (Tour 6)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_7"
+      },
+      {
+        "id": "wrecker01_8",
+        "name": "Main Area (Tour 7)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_8"
+      },
+      {
+        "id": "wrecker01_9",
+        "name": "Main Area (Tour 8)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_9"
+      },
+      {
+        "id": "wrecker01_10",
+        "name": "Main Area (Tour 9)",
+        "preview": "WF1/tracks/wrecker01_10.webp",
+        "artdir": "wrecker01_10"
       }
     ]
   }
