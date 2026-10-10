@@ -70,7 +70,7 @@ function initializeBaggyMenu() {
           if (hasTracks) {
             const trackHeader = document.createElement("div");
             trackHeader.className = "track-header";
-            trackHeader.appendChild(document.createTextNode(`${item.name} - ${item.id}`));
+            trackHeader.appendChild(document.createTextNode(`${item.name} [ID: ${item.id}]`));
 
             if (item.preview) {
               const previewWrap = document.createElement("div");
@@ -96,7 +96,9 @@ function initializeBaggyMenu() {
               item.variations.forEach(variation => {
                 const varLi = document.createElement("li");
                 varLi.className = "variation-item";
-                varLi.appendChild(document.createTextNode(`${variation.name} - ${variation.id}`));
+                varLi.appendChild(document.createTextNode(
+  `${variation.name} [ID: ${variation.id}]` + (variation.artdir ? ` [ART: ${variation.artdir}]` : '')
+));
 
                 if (variation.preview) {
                   const previewWrap = document.createElement("div");

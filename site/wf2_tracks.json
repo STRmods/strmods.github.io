@@ -7,12 +7,14 @@
       {
         "id": "track04_1",
         "name": "Main Circuit",
-        "preview": "WF2/tracks/track04_1.webp"
+        "preview": "WF2/tracks/track04_1.webp",
+        "artdir": "track04_1"
       },
       {
         "id": "track04_1_rev",
         "name": "Main Circuit Reverse",
-        "preview": "WF2/tracks/track04_1_rev.webp"
+        "preview": "WF2/tracks/track04_1_rev.webp",
+        "artdir": "track04_1_rev"
       }
     ]
   },
@@ -24,12 +26,14 @@
       {
         "id": "track10_1",
         "name": "Waypoint Race",
-        "preview": "WF2/tracks/track10_1.webp"
+        "preview": "WF2/tracks/track10_1.webp",
+        "artdir": "track10_1"
       },
       {
         "id": "track10_2",
         "name": "Main Route",
-        "preview": "WF2/tracks/track10_2.webp"
+        "preview": "WF2/tracks/track10_2.webp",
+        "artdir": "track10_2"
       }
     ]
   },
@@ -41,12 +45,14 @@
       {
         "id": "track12_1",
         "name": "Main Circuit",
-        "preview": "WF2/tracks/track12_1.webp"
+        "preview": "WF2/tracks/track12_1.webp",
+        "artdir": "track12_1"
       },
       {
         "id": "track12_2",
         "name": "Main Circuit Reverse",
-        "preview": "WF2/tracks/track12_2.webp"
+        "preview": "WF2/tracks/track12_2.webp",
+        "artdir": "track12_2"
       }
     ]
   },
@@ -58,12 +64,14 @@
       {
         "id": "track05_1",
         "name": "Main Circuit",
-        "preview": "WF2/tracks/track05_1.webp"
+        "preview": "WF2/tracks/track05_1.webp",
+        "artdir": "track05_1"
       },
       {
         "id": "track05_1_rev",
         "name": "Main Circuit Reverse",
-        "preview": "WF2/tracks/track05_1_rev.webp"
+        "preview": "WF2/tracks/track05_1_rev.webp",
+        "artdir": "track05_1_rev"
       }
     ]
   },
@@ -75,12 +83,14 @@
       {
         "id": "track01_1",
         "name": "Main Circuit",
-        "preview": "WF2/tracks/track01_1.webp"
+        "preview": "WF2/tracks/track01_1.webp",
+        "artdir": "track01_1"
       },
       {
         "id": "track01_1_rev",
         "name": "Main Circuit Reverse",
-        "preview": "WF2/tracks/track01_1_rev.webp"
+        "preview": "WF2/tracks/track01_1_rev.webp",
+        "artdir": "track01_1_rev"
       }
     ]
   },
@@ -92,12 +102,14 @@
       {
         "id": "track11_1",
         "name": "Race Route",
-        "preview": "WF2/tracks/track11_1.webp"
+        "preview": "WF2/tracks/track11_1.webp",
+        "artdir": "track11_1"
       },
       {
         "id": "track11_2",
         "name": "Crash Route",
-        "preview": "WF2/tracks/track11_2.webp"
+        "preview": "WF2/tracks/track11_2.webp",
+        "artdir": "track11_2"
       }
     ]
   },
@@ -109,22 +121,26 @@
       {
         "id": "track13_1",
         "name": "Full Circuit",
-        "preview": "WF2/tracks/track13_1.webp"
+        "preview": "WF2/tracks/track13_1.webp",
+        "artdir": "track13_1"
       },
       {
         "id": "track13_2",
         "name": "High-Speed Oval",
-        "preview": "WF2/tracks/track13_2.webp"
+        "preview": "WF2/tracks/track13_2.webp",
+        "artdir": "track13_2"
       },
       {
         "id": "track13_2_sr",
         "name": "Suicide Circuit",
-        "preview": "WF2/tracks/track13_2_sr.webp"
+        "preview": "WF2/tracks/track13_2_sr.webp",
+        "artdir": "track13_2_sr"
       },
       {
         "id": "track13_3",
         "name": "Sprint Circuit",
-        "preview": "WF2/tracks/track13_3.webp"
+        "preview": "WF2/tracks/track13_3.webp",
+        "artdir": "track13_3"
       }
     ]
   },
@@ -136,32 +152,38 @@
       {
         "id": "track02_1",
         "name": "Main Circuit",
-        "preview": "WF2/tracks/track02_1.webp"
+        "preview": "WF2/tracks/track02_1.webp",
+        "artdir": "track02_1"
       },
       {
         "id": "track02_1_rev",
         "name": "Main Circuit Reverse",
-        "preview": "WF2/tracks/track02_1_rev.webp"
+        "preview": "WF2/tracks/track02_1_rev.webp",
+        "artdir": "track02_1_rev"
       },
       {
         "id": "track02_2",
         "name": "Short Circuit",
-        "preview": "WF2/tracks/track02_2.webp"
+        "preview": "WF2/tracks/track02_2.webp",
+        "artdir": "track02_2"
       },
       {
         "id": "track02_2_rev",
         "name": "Short Circuit Reverse",
-        "preview": "WF2/tracks/track02_2_rev.webp"
+        "preview": "WF2/tracks/track02_2_rev.webp",
+        "artdir": "track02_2_rev"
       },
       {
         "id": "track02_2_sr",
         "name": "Suicide Circuit Short",
-        "preview": "WF2/tracks/track02_2_sr.webp"
+        "preview": "WF2/tracks/track02_2_sr.webp",
+        "artdir": "track02_2_sr"
       },
       {
         "id": "track02_3",
         "name": "Waypoint Race",
-        "preview": "WF2/tracks/track02_3.webp"
+        "preview": "WF2/tracks/track02_3.webp",
+        "artdir": "track02_3"
       }
     ]
   },
@@ -173,37 +195,44 @@
       {
         "id": "track07_1",
         "name": "Main Route",
-        "preview": "WF2/tracks/track07_1.webp"
+        "preview": "WF2/tracks/track07_1.webp",
+        "artdir": "track07_1"
       },
       {
         "id": "track07_1_rev",
         "name": "Main Route Reverse",
-        "preview": "WF2/tracks/track07_1_rev.webp"
+        "preview": "WF2/tracks/track07_1_rev.webp",
+        "artdir": "track07_1_rev"
       },
       {
         "id": "track07_2",
         "name": "Demolition Arena",
-        "preview": "WF2/tracks/track07_2.webp"
+        "preview": "WF2/tracks/track07_2.webp",
+        "artdir": "track07_2"
       },
       {
         "id": "track07_3",
         "name": "Bonebreaker",
-        "preview": "WF2/tracks/track07_3.webp"
+        "preview": "WF2/tracks/track07_3.webp",
+        "artdir": "track07_3"
       },
       {
         "id": "track07_4",
         "name": "Speedbowl",
-        "preview": "WF2/tracks/track07_4.webp"
+        "preview": "WF2/tracks/track07_4.webp",
+        "artdir": "track07_4"
       },
       {
         "id": "track07_5",
         "name": "Figure 8",
-        "preview": "WF2/tracks/track07_5.webp"
+        "preview": "WF2/tracks/track07_5.webp",
+        "artdir": "track07_5"
       },
       {
         "id": "track07_6",
         "name": "Scrapyard Waypoint Race",
-        "preview": "WF2/tracks/track07_6.webp"
+        "preview": "WF2/tracks/track07_6.webp",
+        "artdir": "track07_6"
       }
     ]
   },
@@ -215,32 +244,38 @@
       {
         "id": "track06_1",
         "name": "Outer Oval",
-        "preview": "WF2/tracks/track06_1.webp"
+        "preview": "WF2/tracks/track06_1.webp",
+        "artdir": "track06_1"
       },
       {
         "id": "track06_2",
         "name": "Derby",
-        "preview": "WF2/tracks/track06_2.webp"
+        "preview": "WF2/tracks/track06_2.webp",
+        "artdir": "track06_2"
       },
       {
         "id": "track06_3",
         "name": "Inner Oval",
-        "preview": "WF2/tracks/track06_3.webp"
+        "preview": "WF2/tracks/track06_3.webp",
+        "artdir": "track06_3"
       },
       {
         "id": "track06_4",
         "name": "Figure 8",
-        "preview": "WF2/tracks/track06_4.webp"
+        "preview": "WF2/tracks/track06_4.webp",
+        "artdir": "track06_4"
       },
       {
         "id": "track06_5",
         "name": "Suicide 8",
-        "preview": "WF2/tracks/track06_5.webp"
+        "preview": "WF2/tracks/track06_5.webp",
+        "artdir": "track06_5"
       },
       {
         "id": "track06_6",
         "name": "Suicide Oval",
-        "preview": "WF2/tracks/track06_6.webp"
+        "preview": "WF2/tracks/track06_6.webp",
+        "artdir": "track06_6"
       }
     ]
   },
@@ -252,7 +287,8 @@
       {
         "id": "track08_1",
         "name": "Testing Grounds",
-        "preview": "WF2/tracks/track08_1.webp"
+        "preview": "WF2/tracks/track08_1.webp",
+        "artdir": "track08_1"
       }
     ]
   },
@@ -264,27 +300,32 @@
       {
         "id": "track09_1",
         "name": "Oval",
-        "preview": "WF2/tracks/track09_1.webp"
+        "preview": "WF2/tracks/track09_1.webp",
+        "artdir": "track09_1"
       },
       {
         "id": "track09_2",
         "name": "Figure 8",
-        "preview": "WF2/tracks/track09_2.webp"
+        "preview": "WF2/tracks/track09_2.webp",
+        "artdir": "track09_2"
       },
       {
         "id": "track09_3",
         "name": "Derby",
-        "preview": "WF2/tracks/track09_3.webp"
+        "preview": "WF2/tracks/track09_3.webp",
+        "artdir": "track09_3"
       },
       {
         "id": "track09_4",
         "name": "Suicide Dirt Oval",
-        "preview": "WF2/tracks/track09_4.webp"
+        "preview": "WF2/tracks/track09_4.webp",
+        "artdir": "track09_4"
       },
       {
         "id": "track09_5",
         "name": "Suicide Dirt 8",
-        "preview": "WF2/tracks/track09_5.webp"
+        "preview": "WF2/tracks/track09_5.webp",
+        "artdir": "track09_5"
       }
     ]
   }
