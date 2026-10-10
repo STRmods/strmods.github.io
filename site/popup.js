@@ -8,6 +8,12 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 });
 
+function appendLines(parent, lines) {
+  lines.forEach((text, i) => {
+    if (i > 0) parent.appendChild(document.createElement('br'));
+    parent.appendChild(document.createTextNode(text));
+  });
+}
 
 // Initialize Baggy menu interactions
 function initializeBaggyMenu() {
@@ -70,7 +76,7 @@ function initializeBaggyMenu() {
           if (hasTracks) {
             const trackHeader = document.createElement("div");
             trackHeader.className = "track-header";
-            trackHeader.appendChild(document.createTextNode(`${item.name} [ID: ${item.id}]`));
+            trackHeader.appendChild(document.createTextNode(`${item.name} - ${item.id}`));
 
             if (item.preview) {
               const previewWrap = document.createElement("div");
@@ -96,9 +102,11 @@ function initializeBaggyMenu() {
               item.variations.forEach(variation => {
                 const varLi = document.createElement("li");
                 varLi.className = "variation-item";
-                varLi.appendChild(document.createTextNode(
-  `${variation.name} [ID: ${variation.id}]` + (variation.artdir ? ` [ART: ${variation.artdir}]` : '')
-));
+                appendLines(varLi, [
+				  variation.name,
+				  `[ID: ${variation.id}]`,
+				  ...(variation.artdir ? [`[ART: ${variation.artdir}]`] : [])
+				]);
 
                 if (variation.preview) {
                   const previewWrap = document.createElement("div");
