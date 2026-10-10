@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-05T21:36:39.039378+00:00",
+  "version": "2026-10-10T07:30:24.452039+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -617,14 +617,14 @@
     "site/baggy-embed.js": "53ff46cf",
     "site/baggy-sections.json": "37ce3d1f",
     "site/other-resources.json": "253acd66",
-    "site/popup.js": "fff6bf2e",
-    "site/styles.css": "8bcac4f0",
+    "site/popup.js": "8d612083",
+    "site/styles.css": "631a22dc",
     "site/terminal.ttf": "faba73c3",
     "site/wf-resources.json": "b27766dc",
-    "site/wf1_tracks.json": "69d540b4",
+    "site/wf1_tracks.json": "63854ff0",
     "site/wf1_vehicles.json": "6375b6ad",
     "site/wf2-resources.json": "ad99d681",
-    "site/wf2_tracks.json": "23fab2d5",
+    "site/wf2_tracks.json": "d30b8152",
     "site/wf2_vehicles.json": "579b68f6"
   }
 }
