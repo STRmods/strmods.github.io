@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-10T07:30:24.452039+00:00",
+  "version": "2026-10-20T02:48:05.786437+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -514,11 +514,24 @@
     "WF2/tracks/track13_1.webp": "72904f8c",
     "WF2/tracks/track13_2-alt.webp": "513084d5",
     "WF2/tracks/track13_2.webp": "9addbc5c",
-    "WF2/tracks/track13_2_sr-alt.png": "c69046ef",
     "WF2/tracks/track13_2_sr-alt.webp": "a3a8c3f5",
     "WF2/tracks/track13_2_sr.webp": "77fad156",
     "WF2/tracks/track13_3-alt.webp": "4e2d4ab6",
     "WF2/tracks/track13_3.webp": "cac47e21",
+    "WF2/tracks/track14.webp": "50041163",
+    "WF2/tracks/track14_1-alt.webp": "4b1558aa",
+    "WF2/tracks/track14_1.png": "f542bc72",
+    "WF2/tracks/track14_1.webp": "659d0aa7",
+    "WF2/tracks/track14_2-alt.webp": "cdf8582f",
+    "WF2/tracks/track14_2.png": "ab710596",
+    "WF2/tracks/track14_2.webp": "cba8964d",
+    "WF2/tracks/track15.webp": "5c643a6b",
+    "WF2/tracks/track15_1-alt.webp": "5af671d7",
+    "WF2/tracks/track15_1.png": "08fda8ef",
+    "WF2/tracks/track15_1.webp": "3633303b",
+    "WF2/tracks/track15_2-alt.webp": "122de5aa",
+    "WF2/tracks/track15_2.png": "76e7a053",
+    "WF2/tracks/track15_2.webp": "b1d8401b",
     "WF2/vehicles/car01.webp": "872a218c",
     "WF2/vehicles/car02.webp": "e4bc8bbf",
     "WF2/vehicles/car03.webp": "9789a108",
@@ -536,7 +549,10 @@
     "WF2/vehicles/car14.webp": "bb371803",
     "WF2/vehicles/car15.webp": "d4ac340f",
     "WF2/vehicles/car16.webp": "672e9f26",
+    "WF2/vehicles/car18.webp": "e6b99a0b",
+    "WF2/vehicles/car19.webp": "7736e2f1",
     "WF2/vehicles/car21.webp": "74601ad9",
+    "WF2/vehicles/car25.webp": "2e00163a",
     "WF2/vehicles/car26.webp": "5a85623c",
     "WF2/vehicles/motorhome.webp": "9c5e6d35",
     "WF2/vehicles/school_bus.webp": "0d4d5dc6",
@@ -624,7 +640,7 @@
     "site/wf1_tracks.json": "63854ff0",
     "site/wf1_vehicles.json": "6375b6ad",
     "site/wf2-resources.json": "ad99d681",
-    "site/wf2_tracks.json": "d30b8152",
-    "site/wf2_vehicles.json": "579b68f6"
+    "site/wf2_tracks.json": "8dd5aef6",
+    "site/wf2_vehicles.json": "6f7b5d50"
   }
 }

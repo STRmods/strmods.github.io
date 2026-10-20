@@ -95,6 +95,25 @@
     ]
   },
   {
+    "id": "track15",
+    "name": "Hogtown",
+    "preview": "WF2/tracks/track15.webp",
+    "variations": [
+      {
+        "id": "track15_1",
+        "name": "Derby Arena",
+        "preview": "WF2/tracks/track15_1.webp",
+        "artdir": "track15_1"
+      },
+      {
+        "id": "track15_2",
+        "name": "Mud Oval",
+        "preview": "WF2/tracks/track15_2.webp",
+        "artdir": "track15_2"
+      }
+    ]
+  },
+  {
     "id": "track11",
     "name": "Moorfeld",
     "preview": "WF2/tracks/track11.webp",
@@ -289,6 +308,25 @@
         "name": "Testing Grounds",
         "preview": "WF2/tracks/track08_1.webp",
         "artdir": "track08_1"
+      }
+    ]
+  },
+  {
+    "id": "track14",
+    "name": "The Drome",
+    "preview": "WF2/tracks/track14.webp",
+    "variations": [
+      {
+        "id": "track14_1",
+        "name": "Double Cross",
+        "preview": "WF2/tracks/track14_1.webp",
+        "artdir": "track14_1"
+      },
+      {
+        "id": "track14_2",
+        "name": "Deathloop 2",
+        "preview": "WF2/tracks/track14_2.webp",
+        "artdir": "track14_2"
       }
     ]
   },
