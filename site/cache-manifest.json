@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20T02:48:05.786437+00:00",
+  "version": "2026-11-09T00:28:58.899090+00:00",
   "assets": {
     "WF1/resources/STRmods-WF1-WrapperFix.zip": "1c3cbacd",
     "WF1/tracks/bigstadium.webp": "91f35e87",
@@ -424,6 +424,7 @@
     "WF1/vehicles/toilet_car.webp": "d4bda2fc",
     "WF2/VLDL-Tool/vehicle_names.sha256": "f9615b79",
     "WF2/VLDL-Tool/vehicle_names.txt": "ac09b50a",
+    "WF2/resources/WF2 - Decal Group Tool.exe": "d5e2f236",
     "WF2/tracks/track01.webp": "9760683b",
     "WF2/tracks/track01_1-alt.webp": "01adf033",
     "WF2/tracks/track01_1.webp": "34a24e40",
@@ -639,7 +640,7 @@
     "site/wf-resources.json": "b27766dc",
     "site/wf1_tracks.json": "63854ff0",
     "site/wf1_vehicles.json": "6375b6ad",
-    "site/wf2-resources.json": "ad99d681",
+    "site/wf2-resources.json": "cd1c5dc6",
     "site/wf2_tracks.json": "8dd5aef6",
     "site/wf2_vehicles.json": "6f7b5d50"
   }
